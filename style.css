@@ -1,0 +1,16 @@
+.body{
+    background-color: aqua;
+}
+.about{
+    background-color: coral;
+}
+.service{
+    background-color: dimgrey;
+}
+.index{
+    background-color: darkslateblue;
+}
+.ptt{
+    background-color: yellow;
+    color: red;
+}
